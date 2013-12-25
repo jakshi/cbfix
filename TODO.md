@@ -1,0 +1,1 @@
+* Add LICENSE and .gitignore file
